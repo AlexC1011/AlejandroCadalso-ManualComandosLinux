@@ -4,6 +4,8 @@
 [Index](https://github.com/AlexC1011/AlejandroCadalso-ManualComandosLinux/blob/master/index.html)
 # Enlace al styles.css
 [CSS](https://github.com/AlexC1011/AlejandroCadalso-ManualComandosLinux/blob/master/styles.css)
+# Enlace al pinguino.png
+[Pinguino](https://github.com/AlexC1011/AlejandroCadalso-ManualComandosLinux/blob/master/Imagenes/pinguino.png)
 # Enlace al chmod.html
 [Chmod](https://github.com/AlexC1011/AlejandroCadalso-ManualComandosLinux/blob/master/Comandos/chmod.html)
 # Enlace al cut.html
